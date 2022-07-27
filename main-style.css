@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(43, 75, 75);
+    color: white;
+    font-weight: 200;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(51, 194, 139);
+    scrollbar-color: white;
+    padding: 40px;
+    background-image: url("../FloofyNetwork/assets/smaller-image-sample.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+#small-about {
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+
+    width: auto;
+    height: 60px;
+    font-size: 18px;
+
+    background: rgb(99, 87, 173);
+}
+
+#notice-box {
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+
+    width: auto;
+    height: 60px;
+    font-size: 18px;
+    
+    background: rgb(99, 87, 173);
+}
+
+p {
+    font-size: large;
+    background-color: rgb(99, 87, 173);
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(87, 212, 164);
+    border-radius: 10px;
+    padding: 20px;
+}
